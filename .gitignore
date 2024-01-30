@@ -1,0 +1,4 @@
+#Ignorar las carpetas Lib y Scripts
+/Lib
+/Scripts
+/pyvenv.cfg
